@@ -1,0 +1,9 @@
+body {
+    background-color:#f0f0f0;
+    text-align: center;
+}
+.tulip {
+    width: 100px;
+    height: auto;
+    margin: 10px;
+}
